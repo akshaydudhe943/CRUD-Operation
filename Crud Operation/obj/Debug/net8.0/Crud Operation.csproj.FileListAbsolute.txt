@@ -1,0 +1,39 @@
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\appsettings.Development.json
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\appsettings.json
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\Crud Operation.exe
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\Crud Operation.deps.json
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\Crud Operation.runtimeconfig.json
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\Crud Operation.dll
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\Crud Operation.pdb
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\System.Data.SqlClient.dll
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Projects\CRUD-Operation\Crud Operation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.csproj.AssemblyReference.cache
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.AssemblyInfoInputs.cache
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.AssemblyInfo.cs
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.csproj.CoreCompileInputs.cache
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.MvcApplicationPartsAssemblyInfo.cs
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.MvcApplicationPartsAssemblyInfo.cache
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.sourcelink.json
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\staticwebassets.build.json
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\staticwebassets.development.json
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\staticwebassets\msbuild.Crud Operation.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\staticwebassets\msbuild.build.Crud Operation.props
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Crud Operation.props
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Crud Operation.props
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\staticwebassets.pack.json
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\scopedcss\bundle\Crud Operation.styles.css
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Ope.5F5A1EB4.Up2Date
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.dll
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\refint\Crud Operation.dll
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.pdb
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\Crud Operation.genruntimeconfig.cache
+A:\Projects\CRUD-Operation\Crud Operation\obj\Debug\net8.0\ref\Crud Operation.dll

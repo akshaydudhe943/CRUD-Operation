@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Projects\\CRUD-Operation\\Crud Operation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|a:\\projects\\crud-operation\\crud operation\\repositarylayer\\crudoperationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|solutionrelative:repositarylayer\\crudoperationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|a:\\projects\\crud-operation\\crud operation\\controllers\\crudoperationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|solutionrelative:controllers\\crudoperationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|a:\\projects\\crud-operation\\crud operation\\comonlayer\\model\\readrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|solutionrelative:comonlayer\\model\\readrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|a:\\projects\\crud-operation\\crud operation\\repositarylayer\\icrudoperationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|solutionrelative:repositarylayer\\icrudoperationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|a:\\projects\\crud-operation\\crud operation\\servicelayer\\icrudoperationsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|solutionrelative:servicelayer\\icrudoperationsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|a:\\projects\\crud-operation\\crud operation\\servicelayer\\crudoperationsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|solutionrelative:servicelayer\\crudoperationsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|a:\\projects\\crud-operation\\crud operation\\comonlayer\\model\\createrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|solutionrelative:comonlayer\\model\\createrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|a:\\projects\\crud-operation\\crud operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|a:\\projects\\crud-operation\\crud operation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89D8D1A4-6BE2-49A0-BC32-E06E72C4860D}|Crud Operation.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadRecord.cs",
+              "DocumentMoniker": "A:\\Projects\\CRUD-Operation\\Crud Operation\\ComonLayer\\Model\\ReadRecord.cs",
+              "RelativeDocumentMoniker": "ComonLayer\\Model\\ReadRecord.cs",
+              "ToolTip": "A:\\Projects\\CRUD-Operation\\Crud Operation\\ComonLayer\\Model\\ReadRecord.cs",
+              "RelativeToolTip": "ComonLayer\\Model\\ReadRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:01:21.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudOperationRL.cs",
+              "DocumentMoniker": "A:\\Projects\\CRUD-Operation\\Crud Operation\\RepositaryLayer\\CrudOperationRL.cs",
+              "RelativeDocumentMoniker": "RepositaryLayer\\CrudOperationRL.cs",
+              "ToolTip": "A:\\Projects\\CRUD-Operation\\Crud Operation\\RepositaryLayer\\CrudOperationRL.cs",
+              "RelativeToolTip": "RepositaryLayer\\CrudOperationRL.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:26:06.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrudOperationController.cs",
+              "DocumentMoniker": "A:\\Projects\\CRUD-Operation\\Crud Operation\\Controllers\\CrudOperationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CrudOperationController.cs",
+              "ToolTip": "A:\\Projects\\CRUD-Operation\\Crud Operation\\Controllers\\CrudOperationController.cs",
+              "RelativeToolTip": "Controllers\\CrudOperationController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:23:43.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICrudOperationSL.cs",
+              "DocumentMoniker": "A:\\Projects\\CRUD-Operation\\Crud Operation\\ServiceLayer\\ICrudOperationSL.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ICrudOperationSL.cs",
+              "ToolTip": "A:\\Projects\\CRUD-Operation\\Crud Operation\\ServiceLayer\\ICrudOperationSL.cs",
+              "RelativeToolTip": "ServiceLayer\\ICrudOperationSL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:24:45.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateRecord.cs",
+              "DocumentMoniker": "A:\\Projects\\CRUD-Operation\\Crud Operation\\ComonLayer\\Model\\CreateRecord.cs",
+              "RelativeDocumentMoniker": "ComonLayer\\Model\\CreateRecord.cs",
+              "ToolTip": "A:\\Projects\\CRUD-Operation\\Crud Operation\\ComonLayer\\Model\\CreateRecord.cs",
+              "RelativeToolTip": "ComonLayer\\Model\\CreateRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:28:19.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrudOperationSL.cs",
+              "DocumentMoniker": "A:\\Projects\\CRUD-Operation\\Crud Operation\\ServiceLayer\\CrudOperationSL.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\CrudOperationSL.cs",
+              "ToolTip": "A:\\Projects\\CRUD-Operation\\Crud Operation\\ServiceLayer\\CrudOperationSL.cs",
+              "RelativeToolTip": "ServiceLayer\\CrudOperationSL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:25:00.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICrudOperationRL.cs",
+              "DocumentMoniker": "A:\\Projects\\CRUD-Operation\\Crud Operation\\RepositaryLayer\\ICrudOperationRL.cs",
+              "RelativeDocumentMoniker": "RepositaryLayer\\ICrudOperationRL.cs",
+              "ToolTip": "A:\\Projects\\CRUD-Operation\\Crud Operation\\RepositaryLayer\\ICrudOperationRL.cs",
+              "RelativeToolTip": "RepositaryLayer\\ICrudOperationRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:25:49.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Projects\\CRUD-Operation\\Crud Operation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\Projects\\CRUD-Operation\\Crud Operation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:06:45.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "A:\\Projects\\CRUD-Operation\\Crud Operation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "A:\\Projects\\CRUD-Operation\\Crud Operation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T12:16:20.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
