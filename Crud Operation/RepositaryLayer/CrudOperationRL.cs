@@ -74,6 +74,7 @@ namespace Crud_Operation.RepositaryLayer
                                 ReadRecordData dbData = new ReadRecordData();
                                 dbData.UserName = sqlDataReader["UserName"] != DBNull.Value ? sqlDataReader["UserName"].ToString() : string.Empty;
                                 dbData.Age = sqlDataReader["Age"] != DBNull.Value ?Convert.ToInt32(sqlDataReader["Age"]) : 0;
+                                response.readRecordData.Add(dbData);
                             }
                         }
                     }
@@ -88,6 +89,7 @@ namespace Crud_Operation.RepositaryLayer
             {
                 _sqlConnection.Close(); 
             }
+            return response;
         }
     }
 }
