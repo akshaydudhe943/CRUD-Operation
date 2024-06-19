@@ -16,9 +16,19 @@ namespace Crud_Operation.ServiceLayer
             return await _crudOperationRL.CreateRecord(request);
         }
 
+        public async Task<DeleteRecordResponse> DeleteRecord(DeleteRecordRequest request)
+        {
+            return await _crudOperationRL.DeleteRecord(request);
+        }
+
         public async Task<ReadRecordResponse> ReadRecord()
         {
             return await _crudOperationRL.ReadRecord();
+        }
+
+        public async Task<UpdateRecordResponse> UpdateRecord(UpdateRecordRequest request)
+        {
+            return await _crudOperationRL.UpdateRecord(request);
         }
     }
 }

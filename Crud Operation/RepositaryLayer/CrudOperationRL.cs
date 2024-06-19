@@ -48,7 +48,7 @@ namespace Crud_Operation.RepositaryLayer
                 _sqlConnection.Close();
             }
             return response;
-            
+
         }
 
         public async Task<ReadRecordResponse> ReadRecord()
@@ -88,6 +88,76 @@ namespace Crud_Operation.RepositaryLayer
             finally 
             {
                 _sqlConnection.Close(); 
+            }
+            return response;
+        }
+
+        public async Task<UpdateRecordResponse> UpdateRecord(UpdateRecordRequest request)
+        {
+            UpdateRecordResponse response = new UpdateRecordResponse();
+            response.IsSuccess = true;
+            response.Message = "Successful!!";
+            try
+            {
+                string SqlQuery = "Update CrudOperationTable set UserName=@UserName, Age=@Age where Id=@Id";
+                using (SqlCommand sqlCommand = new SqlCommand(SqlQuery, _sqlConnection))
+                {
+                    sqlCommand.CommandType = System.Data.CommandType.Text;
+                    sqlCommand.CommandTimeout = 180;
+                    sqlCommand.Parameters.AddWithValue("Id", request.Id);
+                    sqlCommand.Parameters.AddWithValue("UserName",request.UserName);
+                    sqlCommand.Parameters.AddWithValue("Age", request.Age);
+                    _sqlConnection.Open();
+                    int Status = await sqlCommand.ExecuteNonQueryAsync();
+                    if (Status <= 0)
+                    {
+                        response.IsSuccess = false;
+                        response.Message = "Something went Wrong!";
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                response.Message = e.Message;
+                response.IsSuccess = false;
+            }
+            finally
+            {
+                _sqlConnection.Close();
+            }
+            return response;
+        }
+
+        public async Task<DeleteRecordResponse> DeleteRecord(DeleteRecordRequest request)
+        {
+            DeleteRecordResponse response = new DeleteRecordResponse();
+            response.IsSuccess = true;
+            response.Message = "Successful!!";
+            try
+            {
+                string SqlQuery = "Delete from CrudOperationTable where Id = @Id";
+                using (SqlCommand sqlCommand = new SqlCommand(SqlQuery, _sqlConnection))
+                {
+                    sqlCommand.CommandType= System.Data.CommandType.Text;
+                    sqlCommand.CommandTimeout = 180;
+                    sqlCommand.Parameters.AddWithValue("@Id", request.Id);
+                    _sqlConnection.Open();
+                    int Status = await sqlCommand.ExecuteNonQueryAsync();
+                    if (Status <= 0)
+                    {
+                        response.IsSuccess = false;
+                        response.Message = "Something went Wrong!";
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                response.Message = e.Message;
+                response.IsSuccess = false;
+            }
+            finally
+            {
+                _sqlConnection.Close();
             }
             return response;
         }
